@@ -1,0 +1,9 @@
+# Folders .ipynb_checkpoints
+.ipynb_checkpoints/
+
+# Old Folders
+old_bases/
+snscrape_code/
+
+# .env file
+.env
